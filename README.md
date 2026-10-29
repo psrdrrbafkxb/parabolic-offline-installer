@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Video+Downloader-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Parabolic Free Installer** — Parabolic is a free, open-source video downloader for Linux and Windows built on yt-dlp. Works without internet access, no account required. Full offline installation.
+**💻 Parabolic Free Installer** — Parabolic is a free, open-source video and audio downloader for Windows and Linux using yt-dlp. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Parabolic
 
-Parabolic is a free, open-source video downloader for Linux and Windows built on yt-dlp. With a clean, modern GTK4/GNOME interface, Parabolic provides a user-friendly front-end for downloading videos from YouTube and hundreds of other video platforms. Configure quality, format, subtitle downloads, and download queues through a straightforward graphical interface.
+Parabolic is a free, open-source video and audio downloader for Windows and Linux using yt-dlp. It provides a clean GTK interface for downloading media from YouTube and hundreds of other sites, with format selection, subtitle download, and batch queue support.
 
 ---
 
 ## ❌ Problem: Parabolic is hard to access
 
-- **Legal Considerations** — Downloading copyrighted content may violate platform terms and copyright law
-- **yt-dlp Dependency** — Functionality depends on yt-dlp compatibility with target platforms
-- **Platform Changes** — Video platform API changes can temporarily break download functionality
-- **Linux Primary** — GTK4 interface most native on Linux; Windows version functional but less polished
+- **yt-dlp Dependency** — Relies on yt-dlp which can temporarily break when platforms update APIs
+- **No macOS Version** — Officially supports Windows and Linux only
+- **Limited Post-Processing** — Cannot edit or convert downloaded files within the app
+- **Platform TOS** — Downloading certain content may violate the source platform terms of service
 
 ---
 
@@ -121,7 +121,7 @@ Parabolic is a free, open-source video downloader for Linux and Windows built on
 
 ---
 
-**Parabolic Free Installer** — Parabolic is a free, open-source video downloader for Linux and Windows built on yt-dlp. Install without internet connection today!
+**Parabolic Free Installer** — Parabolic is a free, open-source video and audio downloader for Windows and Linux using yt-dlp. Install without internet connection today!
 
 <div align="center">
 
